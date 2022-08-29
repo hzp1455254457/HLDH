@@ -1,0 +1,9 @@
+totoal_tx.png
+size:556,203
+filter:Linear,Linear
+pma:true
+全部提现
+bounds:2,25,320,176
+红包-3-icon
+bounds:324,2,199,230
+rotate:90

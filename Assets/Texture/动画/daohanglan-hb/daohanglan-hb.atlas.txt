@@ -1,0 +1,12 @@
+daohanglan-hb.png
+size:251,137
+filter:Linear,Linear
+pma:true
+红包-icon
+bounds:2,2,133,161
+offsets:1,0,135,162
+rotate:90
+红包icon (1)
+bounds:165,43,92,84
+offsets:1,0,93,84
+rotate:90

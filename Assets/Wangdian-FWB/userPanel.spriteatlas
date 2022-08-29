@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: userPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 21e62daf019291b4fac7284f66465b3f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 56ab8150eeee02547a2cea141e04fc56, type: 3}
+  - {fileID: 21300000, guid: 5c353473256c7554280be8941d2a38a9, type: 3}
+  - {fileID: 21300000, guid: a4c20e733b8063c45bb2a712d702369d, type: 3}
+  - {fileID: 21300000, guid: c98d4a7654a539c458e255df7fbbf182, type: 3}
+  - {fileID: 21300000, guid: c510811776110d4458b63a153c795e45, type: 3}
+  - {fileID: 21300000, guid: eb64c338fe81ebc469a0841a37b7f725, type: 3}
+  - {fileID: 21300000, guid: 4c86c1a819bc515488886dbfbdd72b36, type: 3}
+  - {fileID: 21300000, guid: ca0222b81580a5144bb68af784a19550, type: 3}
+  - {fileID: 21300000, guid: 88b943b91c2855a4b99cbf745f744387, type: 3}
+  - {fileID: 21300000, guid: 0a8019fa7ea6a89459c7783d7fd9a538, type: 3}
+  - {fileID: 21300000, guid: bf98674c934f90a47b8087ada09d2da7, type: 3}
+  - {fileID: 21300000, guid: c234ac5e71be0564190eb98200d1b50c, type: 3}
+  - {fileID: 21300000, guid: e8359f9fdb1dbbe43925deef2f871bcd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u94BB\u77F3-\u9EC4-icon@2x"
+  - "\u94BB\u77F3-\u84DD-icon@2x"
+  - "\u7231\u5FC3-\u9EC4-icon@2x"
+  - "\u7687\u51A0-\u7070-icon@2x"
+  - "\u91D1\u724Cicon@2x"
+  - "\u7687\u51A0-\u84DD-icon@2x"
+  - "\u94F6\u724Cicon@2x"
+  - "\u7687\u51A0-\u9EC4-icon@2x"
+  - "\u6309\u94AE-\u9886\u5956@2x 1"
+  - "\u7231\u5FC3-\u7070-icon@2x"
+  - "\u94DC\u724Cicon@2x"
+  - "\u7231\u5FC3-\u7EA2-icon@2x"
+  - "\u94BB\u77F3-\u7070-icon@2x"
+  m_RenderDataMap: {}
+  m_Tag: userPanel
+  m_IsVariant: 0

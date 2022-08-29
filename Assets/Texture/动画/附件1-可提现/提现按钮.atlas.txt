@@ -1,0 +1,9 @@
+提现按钮.png
+size:288,108
+filter:Linear,Linear
+pma:true
+可提现icon
+bounds:2,5,178,101
+offsets:2,2,180,104
+金币
+bounds:182,2,104,104

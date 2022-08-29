@@ -1,0 +1,7 @@
+新版导航栏.png
+size:82,98
+filter:Linear,Linear
+pma:true
+hb
+bounds:2,2,78,94
+offsets:1,1,80,96

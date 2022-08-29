@@ -1,0 +1,82 @@
+[
+        {
+            "myshop_level": 0,
+            "myshop_needgold": 1,
+            "myshop_redpacket_reward": 3
+        },
+        {
+            "myshop_level": 1,
+            "myshop_needgold": 40000,
+            "myshop_redpacket_reward": 30
+        },
+        {
+            "myshop_level": 2,
+            "myshop_needgold": 60000,
+            "myshop_redpacket_reward": 50
+        },
+        {
+            "myshop_level": 3,
+            "myshop_needgold": 80000,
+            "myshop_redpacket_reward": 80
+        },
+        {
+            "myshop_level": 4,
+            "myshop_needgold": 500000,
+            "myshop_redpacket_reward": 120
+        },
+        {
+            "myshop_level": 5,
+            "myshop_needgold": 600000,
+            "myshop_redpacket_reward": 150
+        },
+        {
+            "myshop_level": 6,
+            "myshop_needgold": 900000,
+            "myshop_redpacket_reward": 180
+        },
+        {
+            "myshop_level": 7,
+            "myshop_needgold": 1500000,
+            "myshop_redpacket_reward": 210
+        },
+        {
+            "myshop_level": 8,
+            "myshop_needgold": 3000000,
+            "myshop_redpacket_reward": 250
+        },
+        {
+            "myshop_level": 9,
+            "myshop_needgold": 3500000,
+            "myshop_redpacket_reward": 280
+        },
+        {
+            "myshop_level": 10,
+            "myshop_needgold": 4000000,
+            "myshop_redpacket_reward": 300
+        },
+        {
+            "myshop_level": 11,
+            "myshop_needgold": 4500000,
+            "myshop_redpacket_reward": 350
+        },
+        {
+            "myshop_level": 12,
+            "myshop_needgold": 5000000,
+            "myshop_redpacket_reward": 380
+        },
+        {
+            "myshop_level": 13,
+            "myshop_needgold": 6000000,
+            "myshop_redpacket_reward": 400
+        },
+        {
+            "myshop_level": 14,
+            "myshop_needgold": 7000000,
+            "myshop_redpacket_reward": 450
+        },
+        {
+            "myshop_level": 15,
+            "myshop_needgold": 9000000,
+            "myshop_redpacket_reward": 500
+        }
+    ]

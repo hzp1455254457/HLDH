@@ -1,0 +1,6 @@
+左上角金币.png
+size:108,108
+filter:Linear,Linear
+pma:true
+金币
+bounds:2,2,104,104

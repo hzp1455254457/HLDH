@@ -1,0 +1,6 @@
+渐变色.png
+size:114,114
+filter:Linear,Linear
+pma:true
+81b0ceb7da360303cd889ccc87f8082
+bounds:2,2,110,110

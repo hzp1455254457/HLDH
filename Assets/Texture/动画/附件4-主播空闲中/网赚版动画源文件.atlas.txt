@@ -1,0 +1,10 @@
+网赚版动画源文件.png
+size:1190,487
+filter:Linear,Linear
+pma:true
+主播空闲
+bounds:1100,2,483,88
+offsets:1,0,484,88
+rotate:90
+背景
+bounds:2,33,1096,452

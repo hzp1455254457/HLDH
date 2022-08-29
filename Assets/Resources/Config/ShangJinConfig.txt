@@ -1,0 +1,62 @@
+[
+        {
+            "days": 1,
+            "need_tx_nums": 1,
+            "reward_redpackts_txdjs": 5000,
+            "show_money_nums": 50
+        },
+        {
+            "days": 2,
+            "need_tx_nums": 1.2,
+            "reward_redpackts_txdjs": 5000,
+            "show_money_nums": 100
+        },
+        {
+            "days": 3,
+            "need_tx_nums": 1.5,
+            "reward_redpackts_txdjs": 6000,
+            "show_money_nums": 200
+        },
+        {
+            "days": 4,
+            "need_tx_nums": 1.8,
+            "reward_redpackts_txdjs": 8000,
+            "show_money_nums": 400
+        },
+        {
+            "days": 5,
+            "need_tx_nums": 2,
+            "reward_redpackts_txdjs": 8000,
+            "show_money_nums": 600
+        },
+        {
+            "days": 6,
+            "need_tx_nums": 2.5,
+            "reward_redpackts_txdjs": 10000,
+            "show_money_nums": 800
+        },
+        {
+            "days": 7,
+            "need_tx_nums": 3,
+            "reward_redpackts_txdjs": 10000,
+            "show_money_nums": 850
+        },
+        {
+            "days": 8,
+            "need_tx_nums": 3.5,
+            "reward_redpackts_txdjs": 10000,
+            "show_money_nums": 900
+        },
+        {
+            "days": 9,
+            "need_tx_nums": 4,
+            "reward_redpackts_txdjs": 10000,
+            "show_money_nums": 950
+        },
+        {
+            "days": 10,
+            "need_tx_nums": 4.5,
+            "reward_redpackts_txdjs": 0,
+            "show_money_nums": 1000
+        }
+    ]

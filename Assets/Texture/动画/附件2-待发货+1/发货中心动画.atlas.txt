@@ -1,0 +1,6 @@
+发货中心动画.png
+size:148,42
+filter:Linear,Linear
+pma:true
+待发货
+bounds:2,2,144,38

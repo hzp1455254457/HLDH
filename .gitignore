@@ -1,0 +1,37 @@
+/HuanLeDaiHuo2.0.sln
+/spine-csharp.csproj
+/spine-unity.csproj
+/spine-unity-editor.csproj
+/Library
+/Logs
+/obj
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-Editor-firstpass.csproj
+/Assembly-CSharp-firstpass.csproj
+/HuanLeDaiHuo2.0.7z
+.vs
+*.sln
+Packages/packages-lock.json
+Screenshots/
+*.apk
+/Assets/Plugins/Easy Save 3/Resources/ES3/*.asset
+/Assets/_TerrainAutoUpgrade/*.terrainlayer
+/Assets/_TerrainAutoUpgrade/*.meta
+/Assets/Plugins/Easy Save 3/Resources/ES3
+/DOTween.Modules.csproj
+DOTween.Modules.csproj
+Assets/Scenes/OpenBox 1.unity.meta
+ProjectSettings/BurstAotSettings_Android.json
+ProjectSettings/CommonBurstAotSettings.json
+/Assets/Resources/Prefab/tipsAnim.prefab.meta
+/Assets/Scripts/Effect/FahuoSpine.cs.meta
+/Assets/Scripts/Game/BigWorld/CameraMove.meta
+Assets/Plugins/x86_64.meta
+Assets/Scripts/Game/GyroManager.cs.meta
+Assets/Texture/新弹窗/对话框 (8).png.meta
+Assets/Texture/新弹窗/对话框 (9).png.meta
+Assets/Texture/新弹窗/提示.png.meta

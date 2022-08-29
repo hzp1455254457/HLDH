@@ -1,0 +1,6 @@
+收钱.png
+size:220,163
+filter:Linear,Linear
+pma:true
+收钱
+bounds:2,2,216,159

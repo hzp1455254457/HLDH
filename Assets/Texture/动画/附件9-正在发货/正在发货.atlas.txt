@@ -1,0 +1,6 @@
+正在发货.png
+size:1504,688
+filter:Linear,Linear
+pma:true
+发货场景-正在发货/正在发货中
+bounds:2,2,1500,684

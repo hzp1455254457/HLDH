@@ -1,0 +1,7 @@
+newredpacket.png
+size:390,415
+filter:Linear,Linear
+pma:true
+领取
+bounds:2,2,386,411
+offsets:4,1,393,414

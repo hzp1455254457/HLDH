@@ -1,0 +1,502 @@
+[
+        {
+            "actor_name": "家琪",
+            "actor_id": 1,
+            "actor_louceng": 1,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 10,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 3
+        },
+        {
+            "actor_name": "维亚",
+            "actor_id": 2,
+            "actor_louceng": 2,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 20,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 4
+        },
+        {
+            "actor_name": "美美",
+            "actor_id": 3,
+            "actor_louceng": 3,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 30,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 5
+        },
+        {
+            "actor_name": "辛巴",
+            "actor_id": 4,
+            "actor_louceng": 4,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 40,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "提莫",
+            "actor_id": 5,
+            "actor_louceng": 5,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 50,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "雪梨",
+            "actor_id": 6,
+            "actor_louceng": 6,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 60,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "莫凡",
+            "actor_id": 7,
+            "actor_louceng": 7,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 70,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 7
+        },
+        {
+            "actor_name": "冬冬",
+            "actor_id": 8,
+            "actor_louceng": 8,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 80,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 8
+        },
+        {
+            "actor_name": "大奕",
+            "actor_id": 9,
+            "actor_louceng": 9,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 90,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "娃娃",
+            "actor_id": 10,
+            "actor_louceng": 10,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 100,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "仙洋",
+            "actor_id": 11,
+            "actor_louceng": 11,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 110,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "球球",
+            "actor_id": 12,
+            "actor_louceng": 12,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 120,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "林允",
+            "actor_id": 13,
+            "actor_louceng": 13,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 130,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "安冉",
+            "actor_id": 14,
+            "actor_louceng": 14,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 140,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "赫赫",
+            "actor_id": 15,
+            "actor_louceng": 15,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 150,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 4
+        },
+        {
+            "actor_name": "花椒",
+            "actor_id": 16,
+            "actor_louceng": 16,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 160,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 5
+        },
+        {
+            "actor_name": "烈儿",
+            "actor_id": 17,
+            "actor_louceng": 17,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 170,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 6
+        },
+        {
+            "actor_name": "利哥",
+            "actor_id": 18,
+            "actor_louceng": 18,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 180,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 8
+        },
+        {
+            "actor_name": "散打哥",
+            "actor_id": 19,
+            "actor_louceng": 19,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 190,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 9
+        },
+        {
+            "actor_name": "蛋蛋",
+            "actor_id": 20,
+            "actor_louceng": 20,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 200,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 9
+        },
+        {
+            "actor_name": "哈西",
+            "actor_id": 21,
+            "actor_louceng": 21,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 210,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 9
+        },
+        {
+            "actor_name": "牛肉哥",
+            "actor_id": 22,
+            "actor_louceng": 22,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 220,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 9
+        },
+        {
+            "actor_name": "骆大娘",
+            "actor_id": 23,
+            "actor_louceng": 23,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 230,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "子柒",
+            "actor_id": 24,
+            "actor_louceng": 24,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 240,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "大漂亮",
+            "actor_id": 25,
+            "actor_louceng": 25,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 250,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "贝贝兔",
+            "actor_id": 26,
+            "actor_louceng": 26,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 260,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 10
+        },
+        {
+            "actor_name": "瓜瓜",
+            "actor_id": 27,
+            "actor_louceng": 27,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 270,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 11
+        },
+        {
+            "actor_name": "二驴",
+            "actor_id": 28,
+            "actor_louceng": 28,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 280,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 11
+        },
+        {
+            "actor_name": "大狼狗",
+            "actor_id": 29,
+            "actor_louceng": 29,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 290,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 11
+        },
+        {
+            "actor_name": "小阳哥",
+            "actor_id": 30,
+            "actor_louceng": 30,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 300,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 11
+        },
+        {
+            "actor_name": "张庭",
+            "actor_id": 31,
+            "actor_louceng": 31,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 310,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "欧吉尔",
+            "actor_id": 32,
+            "actor_louceng": 32,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 320,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "梓霄",
+            "actor_id": 33,
+            "actor_louceng": 33,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 330,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "小小",
+            "actor_id": 34,
+            "actor_louceng": 34,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 340,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "陈三非",
+            "actor_id": 35,
+            "actor_louceng": 35,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 350,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "董先生",
+            "actor_id": 36,
+            "actor_louceng": 36,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 360,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "千与",
+            "actor_id": 37,
+            "actor_louceng": 37,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 370,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 12
+        },
+        {
+            "actor_name": "莹莹",
+            "actor_id": 38,
+            "actor_louceng": 38,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 380,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 13
+        },
+        {
+            "actor_name": "曹颖",
+            "actor_id": 39,
+            "actor_louceng": 39,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 390,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 13
+        },
+        {
+            "actor_name": "子安",
+            "actor_id": 40,
+            "actor_louceng": 40,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 400,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 13
+        },
+        {
+            "actor_name": "大女王",
+            "actor_id": 41,
+            "actor_louceng": 41,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 410,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 14
+        },
+        {
+            "actor_name": "马帅",
+            "actor_id": 42,
+            "actor_louceng": 42,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 420,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 14
+        },
+        {
+            "actor_name": "游露露",
+            "actor_id": 43,
+            "actor_louceng": 43,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 430,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 14
+        },
+        {
+            "actor_name": "恩佳",
+            "actor_id": 44,
+            "actor_louceng": 44,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 440,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 15
+        },
+        {
+            "actor_name": "大千",
+            "actor_id": 45,
+            "actor_louceng": 45,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 450,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 15
+        },
+        {
+            "actor_name": "月老板",
+            "actor_id": 46,
+            "actor_louceng": 46,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 460,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 15
+        },
+        {
+            "actor_name": "喜哥",
+            "actor_id": 47,
+            "actor_louceng": 47,
+            "actor_level": 1,
+            "actor_sex": 3,
+            "actor_sellbase": 470,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 15
+        },
+        {
+            "actor_name": "小影",
+            "actor_id": 48,
+            "actor_louceng": 48,
+            "actor_level": 1,
+            "actor_sex": 1,
+            "actor_sellbase": 480,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 16
+        },
+        {
+            "actor_name": "大璐璐",
+            "actor_id": 49,
+            "actor_louceng": 49,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 490,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 16
+        },
+        {
+            "actor_name": "雅琴",
+            "actor_id": 50,
+            "actor_louceng": 50,
+            "actor_level": 1,
+            "actor_sex": 2,
+            "actor_sellbase": 500,
+            "Actor_label": "小主播",
+            "need_level_new_actor": 16
+        }
+    ]

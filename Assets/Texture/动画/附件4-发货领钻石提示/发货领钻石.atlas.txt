@@ -1,0 +1,10 @@
+发货领钻石.png
+size:419,295
+filter:Linear,Linear
+pma:true
+zb
+bounds:2,2,217,201
+offsets:0,2,217,203
+文本
+bounds:2,205,415,88
+offsets:2,0,417,88

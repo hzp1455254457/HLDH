@@ -1,0 +1,7 @@
+开心收下.png
+size:627,207
+filter:Linear,Linear
+pma:true
+btn1 (2)
+bounds:2,2,623,203
+offsets:2,2,627,207

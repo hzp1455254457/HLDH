@@ -1,0 +1,11 @@
+lingqushangjin.png
+size:511,83
+filter:Linear,Linear
+pma:true
+元宝
+bounds:417,8,92,73
+offsets:1,1,94,75
+带货赏金
+bounds:2,2,286,79
+领取
+bounds:290,13,125,68

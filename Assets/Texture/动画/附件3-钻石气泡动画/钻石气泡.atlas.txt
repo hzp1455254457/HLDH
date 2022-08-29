@@ -1,0 +1,8 @@
+钻石气泡.png
+size:276,146
+filter:Linear,Linear
+pma:true
+对话气泡 (3)
+bounds:2,2,192,142
+钻石 (5)
+bounds:196,66,78,78

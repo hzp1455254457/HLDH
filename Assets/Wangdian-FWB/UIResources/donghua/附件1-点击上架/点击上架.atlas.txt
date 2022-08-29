@@ -1,0 +1,6 @@
+点击上架.png
+size:220,163
+filter:Linear,Linear
+pma:true
+点击上架
+bounds:2,2,216,159

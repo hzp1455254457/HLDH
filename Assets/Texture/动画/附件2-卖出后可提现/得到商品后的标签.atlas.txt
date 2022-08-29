@@ -1,0 +1,7 @@
+得到商品后的标签.png
+size:407,340
+filter:Linear,Linear
+pma:true
+可提现标签
+bounds:2,2,403,336
+offsets:0,2,404,340

@@ -1,0 +1,12 @@
+升级的箭头.png
+size:389,108
+filter:Linear,Linear
+pma:true
+人气图标
+bounds:268,33,65,73
+offsets:2,0,68,76
+人气背景
+bounds:2,2,264,104
+升级icon
+bounds:335,34,52,72
+offsets:2,2,56,76

@@ -1,0 +1,7 @@
+发货中心动画.png
+size:928,660
+filter:Linear,Linear
+pma:true
+发货中心@3x
+bounds:2,2,924,656
+offsets:0,0,924,657

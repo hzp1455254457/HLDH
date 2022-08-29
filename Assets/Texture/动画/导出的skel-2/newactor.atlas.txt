@@ -1,0 +1,11 @@
+newactor.png
+size:171,138
+filter:Linear,Linear
+pma:true
+新的主播
+bounds:139,25,111,30
+rotate:90
+锁
+bounds:2,2,134,135
+offsets:1,1,137,137
+rotate:90

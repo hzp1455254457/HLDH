@@ -1,0 +1,6 @@
+提现按钮.png
+size:78,49
+filter:Linear,Linear
+pma:true
+提现-按钮 (1)
+bounds:2,2,74,45

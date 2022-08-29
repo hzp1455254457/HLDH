@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CANGKU
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 52945cf2fbb88084d9e515638ecc833f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ff654330351a72f4cbb5c28376112ba8, type: 3}
+  - {fileID: 21300000, guid: b4683e6021374bb4c93f409f357063f2, type: 3}
+  - {fileID: 21300000, guid: 3b77a811398c3914ca5d01c4b7304ee1, type: 3}
+  - {fileID: 21300000, guid: f28aba516b0e61d4ba97fe179414c6b0, type: 3}
+  - {fileID: 21300000, guid: d20575827c5140c45bae509c941288c3, type: 3}
+  - {fileID: 21300000, guid: 3597c93494ebc8247a5a60fab9fcf582, type: 3}
+  - {fileID: 21300000, guid: c9f35c85617d40d4cbd48b4f3bc5557f, type: 3}
+  - {fileID: 21300000, guid: 60e6cbd5aa81881438da2000ea1ed7dc, type: 3}
+  - {fileID: 21300000, guid: eb16fc1603a2b4c4081bdd4e7180b5d3, type: 3}
+  - {fileID: 21300000, guid: 3a23dda66436d48439e231b2e40361c7, type: 3}
+  - {fileID: 21300000, guid: 2d2745887669dbd43b22d63f4e9e8e2d, type: 3}
+  - {fileID: 21300000, guid: d061abd878310034aafb053825508dfe, type: 3}
+  - {fileID: 21300000, guid: 26573c99002fdaf49916e4abb5832b4f, type: 3}
+  - {fileID: 21300000, guid: 6ae9010a0ce75c94b9cafcb9255f38d8, type: 3}
+  - {fileID: 21300000, guid: 7b76ee4ab7cd2b741909e91e1fd4164f, type: 3}
+  - {fileID: 21300000, guid: ba8dfe6a3f64a90459b99204e4572873, type: 3}
+  - {fileID: 21300000, guid: 1fecd0aa1095f3c48ba628b18a260202, type: 3}
+  - {fileID: 21300000, guid: abae9a5b0d298b244b689a99346406cb, type: 3}
+  - {fileID: 21300000, guid: 412fc6ebdd8a2ab4da63503436a53ca9, type: 3}
+  - {fileID: 21300000, guid: 2e0ceefb8698e754ab96576f4c25135d, type: 3}
+  - {fileID: 21300000, guid: 064ee63dd11ff5f46bbe4e8a534f10b0, type: 3}
+  - {fileID: 21300000, guid: 2cfdfb8d2d59e2940a2610c8e445e712, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u64AD\u653Eicon-1"
+  - "\u80CC\u666F-2"
+  - "\u7BA1\u9053\u6846"
+  - "\u6309\u94AE-\u5E38\u89C4 (1)"
+  - "\u6C14\u6CE1\u94BB\u77F3-\u666E\u901A"
+  - "\u8FDB\u5EA6\u6761 (1)"
+  - "\u73B0\u91D1\u7EA2\u5305"
+  - "\u8FDB\u5EA6\u6761 (2)"
+  - "\u7BA1\u9053-\u5F00\u53E3"
+  - "\u4E00\u952E\u9886\u53D6\u5F39\u7A97"
+  - "\u4ED3\u5E93\u573A\u666F2"
+  - "\u5361\u8F66"
+  - "\u5730\u9762-\u80CC\u666F"
+  - "\u6309\u94AE-\u5E38\u89C4"
+  - "\u80CC\u666F (2)"
+  - "\u7EAF\u8272\u6309\u94AE\u5E95"
+  - btn-Start-green
+  - "\u6309\u94AE-\u524D\u5F80\u5927\u4E16\u754C (2)"
+  - "\u7269\u54C1\u6846"
+  - "\u53D1\u8D27\u4E2D\u5FC3"
+  - "\u7BA1\u9053-\u8282\u70B9"
+  - "\u673A\u5668-\u4FA7\u89C6\u56FE"
+  m_RenderDataMap: {}
+  m_Tag: CANGKU
+  m_IsVariant: 0

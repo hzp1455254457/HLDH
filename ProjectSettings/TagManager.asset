@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - XiangZi
+  - Produce
+  - Goods
+  - Transportation
+  - LoadingPoint
+  - Effects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - dangban
+  - ball
+  - ball1
+  - LoadingPoint
+  - button
+  - OpenBox
+  - BigWorld
+  - wangdian
+  - ball1DangBan
+  - ball2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: button
+    uniqueID: 3391159607
+    locked: 0

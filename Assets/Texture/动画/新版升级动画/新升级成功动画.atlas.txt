@@ -1,0 +1,10 @@
+新升级成功动画.png
+size:479,126
+filter:Linear,Linear
+pma:true
+tixian-hongbao-da
+bounds:386,15,91,109
+offsets:0,1,91,110
+未标题-15
+bounds:2,2,382,122
+offsets:5,6,390,132

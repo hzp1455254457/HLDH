@@ -1,0 +1,352 @@
+ [
+        {
+            "actor_level": 1,
+            "actor_level_buff": 1,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 400,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 2,
+            "actor_level_buff": 1.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 450,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 3,
+            "actor_level_buff": 1.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 480,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 4,
+            "actor_level_buff": 1.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 500,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 5,
+            "actor_level_buff": 2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 650,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 6,
+            "actor_level_buff": 2.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 660,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 7,
+            "actor_level_buff": 2.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 680,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 8,
+            "actor_level_buff": 2.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 690,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 9,
+            "actor_level_buff": 2.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 700,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 10,
+            "actor_level_buff": 3,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 720,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 11,
+            "actor_level_buff": 3.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 740,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 12,
+            "actor_level_buff": 3.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 760,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 13,
+            "actor_level_buff": 3.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 780,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 14,
+            "actor_level_buff": 3.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 800,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 15,
+            "actor_level_buff": 4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 910,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 16,
+            "actor_level_buff": 4.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 920,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 17,
+            "actor_level_buff": 4.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 930,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 18,
+            "actor_level_buff": 4.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 940,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 19,
+            "actor_level_buff": 4.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 950,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 20,
+            "actor_level_buff": 5,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 960,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 21,
+            "actor_level_buff": 5.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 970,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 22,
+            "actor_level_buff": 5.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 980,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 23,
+            "actor_level_buff": 5.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 990,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 24,
+            "actor_level_buff": 5.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1000,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 25,
+            "actor_level_buff": 6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1020,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 26,
+            "actor_level_buff": 6.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1040,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 27,
+            "actor_level_buff": 6.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1050,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 28,
+            "actor_level_buff": 6.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1060,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 29,
+            "actor_level_buff": 6.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1070,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 30,
+            "actor_level_buff": 7,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1080,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 31,
+            "actor_level_buff": 7.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1100,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 32,
+            "actor_level_buff": 7.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1200,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 33,
+            "actor_level_buff": 7.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1300,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 34,
+            "actor_level_buff": 7.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1400,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 35,
+            "actor_level_buff": 8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1500,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 36,
+            "actor_level_buff": 8.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1600,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 37,
+            "actor_level_buff": 8.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1700,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 38,
+            "actor_level_buff": 8.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1800,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 39,
+            "actor_level_buff": 8.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 1900,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 40,
+            "actor_level_buff": 9,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 2000,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 41,
+            "actor_level_buff": 9.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 2100,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 42,
+            "actor_level_buff": 9.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 2500,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 43,
+            "actor_level_buff": 9.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 2800,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 44,
+            "actor_level_buff": 9.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 3200,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 45,
+            "actor_level_buff": 10,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 3500,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 46,
+            "actor_level_buff": 10.2,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 3600,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 47,
+            "actor_level_buff": 10.4,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 3800,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 48,
+            "actor_level_buff": 10.6,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 4200,
+            "is_show_redpacket_shengji": 0
+        },
+        {
+            "actor_level": 49,
+            "actor_level_buff": 10.8,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 4500,
+            "is_show_redpacket_shengji": 1
+        },
+        {
+            "actor_level": 50,
+            "actor_level_buff": 11,
+            "actorlevel_cost": 2,
+            "actorlevel_cost_num": 999999999,
+            "is_show_redpacket_shengji": 0
+        }
+    ]

@@ -1,0 +1,252 @@
+[
+        {
+            "floor_total": 1,
+            "floor_cost": 1,
+            "floor_cost_num": 2000
+        },
+        {
+            "floor_total": 2,
+            "floor_cost": 2,
+            "floor_cost_num": 3000
+        },
+        {
+            "floor_total": 3,
+            "floor_cost": 2,
+            "floor_cost_num": 4000
+        },
+        {
+            "floor_total": 4,
+            "floor_cost": 2,
+            "floor_cost_num": 6000
+        },
+        {
+            "floor_total": 5,
+            "floor_cost": 2,
+            "floor_cost_num": 9000
+        },
+        {
+            "floor_total": 6,
+            "floor_cost": 1,
+            "floor_cost_num": 10000
+        },
+        {
+            "floor_total": 7,
+            "floor_cost": 1,
+            "floor_cost_num": 12000
+        },
+        {
+            "floor_total": 8,
+            "floor_cost": 1,
+            "floor_cost_num": 13000
+        },
+        {
+            "floor_total": 9,
+            "floor_cost": 2,
+            "floor_cost_num": 14000
+        },
+        {
+            "floor_total": 10,
+            "floor_cost": 2,
+            "floor_cost_num": 15000
+        },
+        {
+            "floor_total": 11,
+            "floor_cost": 2,
+            "floor_cost_num": 16000
+        },
+        {
+            "floor_total": 12,
+            "floor_cost": 2,
+            "floor_cost_num": 17000
+        },
+        {
+            "floor_total": 13,
+            "floor_cost": 2,
+            "floor_cost_num": 18000
+        },
+        {
+            "floor_total": 14,
+            "floor_cost": 2,
+            "floor_cost_num": 19000
+        },
+        {
+            "floor_total": 15,
+            "floor_cost": 2,
+            "floor_cost_num": 22000
+        },
+        {
+            "floor_total": 16,
+            "floor_cost": 2,
+            "floor_cost_num": 25000
+        },
+        {
+            "floor_total": 17,
+            "floor_cost": 2,
+            "floor_cost_num": 15000
+        },
+        {
+            "floor_total": 18,
+            "floor_cost": 2,
+            "floor_cost_num": 16000
+        },
+        {
+            "floor_total": 19,
+            "floor_cost": 2,
+            "floor_cost_num": 17000
+        },
+        {
+            "floor_total": 20,
+            "floor_cost": 2,
+            "floor_cost_num": 18000
+        },
+        {
+            "floor_total": 21,
+            "floor_cost": 2,
+            "floor_cost_num": 21000
+        },
+        {
+            "floor_total": 22,
+            "floor_cost": 2,
+            "floor_cost_num": 22000
+        },
+        {
+            "floor_total": 23,
+            "floor_cost": 2,
+            "floor_cost_num": 23000
+        },
+        {
+            "floor_total": 24,
+            "floor_cost": 2,
+            "floor_cost_num": 24000
+        },
+        {
+            "floor_total": 25,
+            "floor_cost": 2,
+            "floor_cost_num": 25000
+        },
+        {
+            "floor_total": 26,
+            "floor_cost": 2,
+            "floor_cost_num": 26000
+        },
+        {
+            "floor_total": 27,
+            "floor_cost": 2,
+            "floor_cost_num": 27000
+        },
+        {
+            "floor_total": 28,
+            "floor_cost": 2,
+            "floor_cost_num": 28000
+        },
+        {
+            "floor_total": 29,
+            "floor_cost": 2,
+            "floor_cost_num": 29000
+        },
+        {
+            "floor_total": 30,
+            "floor_cost": 2,
+            "floor_cost_num": 30000
+        },
+        {
+            "floor_total": 31,
+            "floor_cost": 2,
+            "floor_cost_num": 31000
+        },
+        {
+            "floor_total": 32,
+            "floor_cost": 2,
+            "floor_cost_num": 32000
+        },
+        {
+            "floor_total": 33,
+            "floor_cost": 2,
+            "floor_cost_num": 33000
+        },
+        {
+            "floor_total": 34,
+            "floor_cost": 2,
+            "floor_cost_num": 34000
+        },
+        {
+            "floor_total": 35,
+            "floor_cost": 2,
+            "floor_cost_num": 35000
+        },
+        {
+            "floor_total": 36,
+            "floor_cost": 2,
+            "floor_cost_num": 36000
+        },
+        {
+            "floor_total": 37,
+            "floor_cost": 2,
+            "floor_cost_num": 37000
+        },
+        {
+            "floor_total": 38,
+            "floor_cost": 2,
+            "floor_cost_num": 38000
+        },
+        {
+            "floor_total": 39,
+            "floor_cost": 2,
+            "floor_cost_num": 39000
+        },
+        {
+            "floor_total": 40,
+            "floor_cost": 2,
+            "floor_cost_num": 40000
+        },
+        {
+            "floor_total": 41,
+            "floor_cost": 2,
+            "floor_cost_num": 41000
+        },
+        {
+            "floor_total": 42,
+            "floor_cost": 2,
+            "floor_cost_num": 42000
+        },
+        {
+            "floor_total": 43,
+            "floor_cost": 2,
+            "floor_cost_num": 43000
+        },
+        {
+            "floor_total": 44,
+            "floor_cost": 2,
+            "floor_cost_num": 44000
+        },
+        {
+            "floor_total": 45,
+            "floor_cost": 2,
+            "floor_cost_num": 45000
+        },
+        {
+            "floor_total": 46,
+            "floor_cost": 2,
+            "floor_cost_num": 46000
+        },
+        {
+            "floor_total": 47,
+            "floor_cost": 2,
+            "floor_cost_num": 47000
+        },
+        {
+            "floor_total": 48,
+            "floor_cost": 2,
+            "floor_cost_num": 48000
+        },
+        {
+            "floor_total": 49,
+            "floor_cost": 2,
+            "floor_cost_num": 49000
+        },
+        {
+            "floor_total": 50,
+            "floor_cost": 2,
+            "floor_cost_num": 50000
+        }
+    ]

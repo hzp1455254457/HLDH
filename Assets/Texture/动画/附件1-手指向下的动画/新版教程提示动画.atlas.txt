@@ -1,0 +1,9 @@
+新版教程提示动画.png
+size:928,210
+filter:Linear,Linear
+pma:true
+手指
+bounds:746,16,180,192
+框
+bounds:2,2,742,206
+offsets:4,962,750,1334
